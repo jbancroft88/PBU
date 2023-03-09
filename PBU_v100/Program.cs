@@ -15,7 +15,6 @@ namespace PBU
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new PBU.MainGUI());
-
         }
     }
 }
